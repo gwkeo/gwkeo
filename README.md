@@ -1,3 +1,1 @@
-Since 2016 creating projects based on Arduino.
-Currently learning: C++, Python.
-Twitter: kyubertino.
+BMSTU student (2022-2026)
